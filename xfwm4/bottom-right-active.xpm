@@ -1,0 +1,19 @@
+/* XPM */
+static char * bottom_right_active_xpm[] = {
+"12 12 4 1",
+" 	c None",
+"+	c #FFFFFF s inactive_hilight_1",
+"@	c #D8D8D8 s inactive_color_1",
+"#	c #B2B2B2 s inactive_shadow_1",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"        @@+#",
+"@@@@@@@@@@+#",
+"@@@@@@@@@@+#",
+"+++++++++++#",
+"############"};
